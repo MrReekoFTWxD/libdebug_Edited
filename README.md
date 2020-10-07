@@ -1,4 +1,4 @@
-#libdebug Edited 
+libdebug Edited 
 I was bored wanted to start looking at some PS4 stuff. 
 
 This DLL is just a edited version of [jogolden](https://github.com/jogolden/ps4debug) dll on his page!
